@@ -1,2 +1,6 @@
+.DS_Store
 creds.json
- 
+pyvenv.cfg
+bin/
+include/
+lib/
